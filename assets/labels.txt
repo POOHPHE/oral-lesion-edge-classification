@@ -1,0 +1,7 @@
+Mass
+Normal
+Pigmented
+Red
+Ulcer
+White
+White-red

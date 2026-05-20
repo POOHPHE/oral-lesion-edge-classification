@@ -1,0 +1,10 @@
+convnext_atto_int8.onnx
+convnext_pico_int8.onnx
+convnextv2_atto_int8.onnx
+edgenext_small_int8.onnx
+edgenext_x_small_int8.onnx
+mobileone_s1_int8.onnx
+shufflenet_v2_x0_5_int8.onnx
+shufflenet_v2_x1_0_int8.onnx
+squeezenet1_0_int8.onnx
+squeezenet1_1_int8.onnx
